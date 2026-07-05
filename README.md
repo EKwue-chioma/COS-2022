@@ -1,1 +1,5 @@
 # COS-2022
+Name: Ekwue chioma Esther 
+Matric number: 241203030
+Department: Data science 
+This project was developed as my COS 202 Assignment. It consists of two interactive Python programs: the Mathematical Calculator (MC) and the Personal Pocket CGPA Calculator (PPC). Both programs were developed using Python's selection control statements (if, elif, and else). The MC performs basic arithmetic operations such as addition, subtraction, multiplication, division, floor division, exponentiation, and modulus, with options to clear the screen and exit the program. The PPC calculates a student's CGPA by accepting course scores and credit units, assigning grades and grade points, computing the CGPA, and displaying the corresponding class of degree. This assignment demonstrates the practical application of Python programming concepts, including decision-making, loops, functions, user input, and arithmetic operations.
